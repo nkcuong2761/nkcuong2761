@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @nkcuong2761
+- 👋  Hi, I’m Cuong Nguyen
 - 👀  I’m interested in software engineer and product design, specifically app development
 - 🌱  I’m currently learning Swift
 - 💞️  I’m looking for a software engineer internship
