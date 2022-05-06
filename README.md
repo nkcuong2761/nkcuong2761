@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Cuong Nguyen
-- 👀  I’m interested in software engineer and product design, specifically app development
-- 🌱  I’m currently learning Swift
-- 💞️  I’m looking for a software engineer internship
+- 👀  I have interest and experience in software engineer and product design, specifically app development
+- 🌱  I’m currently learning UX
+- 💞️  I’m looking for a Product Design full-time position
 - 📫  How to reach me: through my email ckn006@bucknell.edu
 
 <!---
